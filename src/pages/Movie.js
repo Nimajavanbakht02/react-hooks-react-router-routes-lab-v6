@@ -32,5 +32,6 @@ function Movie() {
       </main>
     </>
   );
+};
 
-
+export default Movie;

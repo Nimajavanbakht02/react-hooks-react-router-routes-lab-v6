@@ -26,3 +26,5 @@ function Directors() {
     </>
   );
 };
+
+export default Directors;

@@ -24,4 +24,7 @@ function Actors() {
         {actorList}
       </main>
     </>
-  )}
+  );
+};
+
+export default Actors;

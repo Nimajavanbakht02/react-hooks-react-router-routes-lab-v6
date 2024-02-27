@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from "react";
 import MovieCard from "../components/MovieCard"
 import NavBar from "../components/NavBar";
@@ -30,3 +29,6 @@ function Home() {
       </main>
     </>
   );
+};
+
+export default Home;
